@@ -50,3 +50,18 @@
 
 The article that created will show in list and you can choose to either publish or discard it.
 
+This message will show when button publish is clicked.
+
+![Publish](https://github.com/Jaclyn/doc/raw/master/screenshot/publish.png "Publish")
+
+After successfully publish to Polopoly, button 'Publish' is now changed to 'Update'.
+
+![Publish2](https://github.com/Jaclyn/doc/raw/master/screenshot/publish2.png "Publish2")
+
+Check Polopoly system to get the published article.
+
+Go to system department >> recently changed and search from the list. 
+
+![Polopoly](https://github.com/Jaclyn/doc/raw/master/screenshot/polopoly.png "Polopoly")
+
+![Polopoly2](https://github.com/Jaclyn/doc/raw/master/screenshot/polopoly2.png "Polopoly2")
